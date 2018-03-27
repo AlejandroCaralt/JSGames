@@ -7,5 +7,5 @@
 ### Source: <a href="https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/start-here/" >Tutorial completa</a>
 <img src="img/lvl0-Phaser.png" >
 <img src="img/lvl1-Phaser.png" >
-<a href="https://losmonitores.000webhostapp.com/MiPrimerJuegoPhaser/index.html" > Try it here! </a>
+<a href="https://losmonitores.000webhostapp.com/MiPrimerJuegoPhaser/index.html" > Try it here! </a><br>
 ### Os recomiendo esta publicación sobre crear juegos Indi https://gamedevelopment.tutsplus.com/articles/1gam-how-to-succeed-at-making-one-game-a-month--gamedev-3695
